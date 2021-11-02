@@ -1,0 +1,19 @@
+{
+  "name": "html_feijo",
+  "version": "1.0.0",
+  "description": "Primeiro web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goncalofeijo7/html_feijo.git"
+  },
+  "author": "Gonçalo Feijo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goncalofeijo7/html_feijo/issues"
+  },
+  "homepage": "https://github.com/goncalofeijo7/html_feijo#readme"
+}
