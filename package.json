@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/goncalofeijo7/html_feijo/issues"
   },
-  "homepage": "https://github.com/goncalofeijo7/html_feijo#readme"
+  "homepage": "https://github.com/goncalofeijo7/html_feijo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
