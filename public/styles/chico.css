@@ -2,14 +2,13 @@
     margin: 0;
     padding: 0;
 }
-
 .body{
-    background-color: azure;
+    background-color: rgb(10, 216, 216);
 }
 
 .nav{
     position: absolute;
-    background-color:darkblue;
+    background-color:rgb(72, 104, 173);
     height: 100px;
     top: 0px;
     left: 0px;
@@ -19,7 +18,7 @@
 
 .brand{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 25px;
     font-weight: bold;
     padding-left: 5px;
@@ -32,7 +31,7 @@
 
 .menu{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color : white;
+    color : rgb(255, 255, 255);
     font-size:25px;
     font-weight: bold;
     position: relative;
@@ -45,6 +44,32 @@
 }
 
 .menu:hover{
-    background-color : skyblue;
+    background-color : rgb(0, 79, 153);
     transform: scale(1.5);
 }
+.contact-formIMG {
+    border-radius : 180px;
+    text-align: center;
+
+}
+
+#p{
+    text-align:center;
+}
+
+.contact-form1 {
+    text-align: center;
+    max-width: 600px;
+    margin-top: 7%;
+    margin-right: 35%;
+    margin-left: 35%;
+}
+
+.centrar{
+    text-align:center;
+    margin-top: 2%;
+    margin-right: 35%;
+    margin-left: 35%;
+}
+
+
